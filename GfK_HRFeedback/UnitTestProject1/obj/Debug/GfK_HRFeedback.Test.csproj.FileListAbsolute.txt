@@ -1,0 +1,7 @@
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\bin\Debug\GfK_HRFeedback.Test.dll
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\bin\Debug\GfK_HRFeedback.Test.pdb
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\bin\Debug\GfK_HRFeedback.dll
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\bin\Debug\GfK_HRFeedback.pdb
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\obj\Debug\GfK_HRFeedback.Test.csprojResolveAssemblyReference.cache
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\obj\Debug\GfK_HRFeedback.Test.dll
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\UnitTestProject1\obj\Debug\GfK_HRFeedback.Test.pdb
