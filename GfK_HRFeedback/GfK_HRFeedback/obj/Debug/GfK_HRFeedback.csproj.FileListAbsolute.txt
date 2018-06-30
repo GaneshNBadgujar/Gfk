@@ -1,0 +1,4 @@
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\GfK_HRFeedback\bin\GfK_HRFeedback.dll
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\GfK_HRFeedback\bin\GfK_HRFeedback.pdb
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\GfK_HRFeedback\obj\Debug\GfK_HRFeedback.dll
+D:\Project\GfK_HRFeedback\GfK_HRFeedback\GfK_HRFeedback\obj\Debug\GfK_HRFeedback.pdb

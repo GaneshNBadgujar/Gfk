@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HR_Feedback.Master.cs" Inherits="GfK_HRFeedback.HR_Feedback" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>HR Feedback</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="border: 1px solid; width: 700px">
+                <tr>
+                    <td style="border-bottom: 1px solid; border-bottom-color: orange;">
+                        <img src="images/gfk.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="cphHRFeedback" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+    </form>
+</body>
+</html>
