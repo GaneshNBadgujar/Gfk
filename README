@@ -1,0 +1,24 @@
+Steps to run the assignment:
+
+1.	Take the latest of Gfk folder which contains:
+a.	Database
+b.	GfK_HRFeedback solution with two project 
+GfK_HRFeedback – Main solution to submit the feedback
+UnitTestProject1 – Test project to test the data
+
+2.	Database setup
+Here you will find the HRFeedback.bak file. You need to create new database using this DB backup file. The database is containing 3 tables.
+a.	AnonymousUser  - To store anonymous user IP address who is submitting the feedback
+b.	Questions – 1 to 5 questions already inserted into table
+c.	Answers – To store the Answers with respective to Question (QuestionId is reference key). There is another column is Counter, which is used to increment for each submitted response with respect to specific answer. Final column is Result, which is calculated in store procedure while submitting the feedback.
+
+3.	GfK_HRFeedback Solution
+GfK_HRFeedback project
+Here you need to change the WebConfig file to set correct Data Source for DB connection as per your SQL Server instance name. I have used the Windows Authentication so connection string containing with Integrated Security = True
+a.	If you run the project it will jump to first page that is ’HRFeedback.aspx’. This has all the questions and answer to select.
+b.	All the answers are mandatory to submit the feedback
+c.	After submitting the feedback successfully you will directly redirect to HRFeedbackResult page with result of all the questions & answers.
+d.	
+GfK_HRFeedback.Test project
+a.	This is a test project, which is doing simple test set for questions count and answer count from Mock data
+
